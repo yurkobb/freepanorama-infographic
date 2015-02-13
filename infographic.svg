@@ -26,6 +26,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5025">
+      <stop
+         style="stop-color:#e4e7b7;stop-opacity:1"
+         offset="0"
+         id="stop5027" />
+      <stop
+         style="stop-color:#d9f5f8;stop-opacity:0;"
+         offset="1"
+         id="stop5029" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient5941"
        osb:paint="solid">
       <stop
@@ -2267,6 +2279,47 @@
        y1="855.89722"
        x2="399.63168"
        y2="855.89722" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5025"
+       id="linearGradient5032"
+       x1="292.88824"
+       y1="-19.309755"
+       x2="292.88824"
+       y2="84.033867"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5064">
+      <feFlood
+         flood-opacity="0.423529"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5066" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5068" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur5070" />
+      <feOffset
+         dx="1"
+         dy="1"
+         result="offset"
+         id="feOffset5072" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5074" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2275,11 +2328,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="668.10494"
-     inkscape:cy="498.78593"
+     inkscape:zoom="0.7"
+     inkscape:cx="505.40091"
+     inkscape:cy="198.68176"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
@@ -2320,10 +2373,23 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="bg-1">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5032);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+       id="rect5023"
+       width="825.71429"
+       height="925.71429"
+       x="-14.285714"
+       y="-14.285714" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="bg"
      style="display:inline"
-     transform="translate(0,-300)">
+     transform="translate(0,-300)"
+     sodipodi:insensitive="true">
     <path
        transform="translate(0,47.6379)"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1"
@@ -2350,7 +2416,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-252.3621)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
@@ -2396,22 +2463,26 @@
     <g
        id="g6017"
        transform="matrix(1.5141593,0,0,1.5141593,-19.519124,-916.43264)">
-      <rect
-         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
-         y="664.17694"
-         x="-622.42853"
-         height="122.22846"
-         width="122.22846"
-         id="rect5002-5-9"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
-         id="rect5057"
-         width="96.514175"
-         height="96.514175"
-         x="-666.13995"
-         y="733.60266"
-         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+      <g
+         id="g5036"
+         style="filter:url(#filter5064)">
+        <rect
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+           id="rect5002-5-9"
+           width="122.22846"
+           height="122.22846"
+           x="-622.42853"
+           y="664.17694"
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" />
+        <rect
+           transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+           y="733.60266"
+           x="-666.13995"
+           height="96.514175"
+           width="96.514175"
+           id="rect5057"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
+      </g>
       <g
          transform="matrix(0.37124938,0,0,0.37124938,56.146616,829.03848)"
          id="g5641"
@@ -2779,16 +2850,16 @@
       </g>
       <polygon
          id="polygon250"
-         points="525.076,354.23 517.076,351.23 516.576,355.23 " />
+         points="516.576,355.23 525.076,354.23 517.076,351.23 " />
       <polygon
          id="polygon252"
-         points="529.054,379.929 522.831,374.073 520.824,377.571 " />
+         points="520.824,377.571 529.054,379.929 522.831,374.073 " />
       <polygon
          id="polygon254"
-         points="529.078,330.704 520.534,330.594 521.419,334.527 " />
+         points="521.419,334.527 529.078,330.704 520.534,330.594 " />
       <polygon
          id="polygon256"
-         points="526.5,303.841 518.604,307.099 520.963,310.368 " />
+         points="520.963,310.368 526.5,303.841 518.604,307.099 " />
       <g
          id="g6069">
         <path
