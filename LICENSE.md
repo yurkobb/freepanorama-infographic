@@ -8,3 +8,4 @@ It includes a number of icons and other graphical elements, licensed as follows:
  - Element from the [Wikimedia Commons licensing tutorial](https://commons.wikimedia.org/wiki/File:Licensing_tutorial_en.svg), [cc by-sa 3.0](https://creativecommons.org/licenses/by-sa/3.0/), by [Wikimedia Foundation](https://wikimediafoundation.org/wiki/)
  - [Applications graphics](https://commons.wikimedia.org/wiki/File:Applications-graphics.svg), [cc0](http://creativecommons.org/publicdomain/zero/1.0/deed.en), by [Tango project](http://tango.freedesktop.org/The_People)
  - [Nuvola Europe flag](https://commons.wikimedia.org/wiki/File:Nuvola_Europe_flag.svg), [LGPL](https://en.wikipedia.org/wiki/uk:GNU_Lesser_General_Public_License), by Orzetto.
+ - [Nuvola Ukrainian flag](https://commons.wikimedia.org/wiki/File:Nuvola_Ukrainian_flag.svg), [LGPL](https://en.wikipedia.org/wiki/uk:GNU_Lesser_General_Public_License), by [Min's](https://commons.wikimedia.org/wiki/User:Min%27s)
