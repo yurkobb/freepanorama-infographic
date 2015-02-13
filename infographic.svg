@@ -14,7 +14,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
-   height="900"
+   height="980"
    viewBox="0 0 2267.7165 0"
    id="svg2"
    version="1.1"
@@ -25,6 +25,15 @@
    inkscape:export-ydpi="89.963699">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5441"
+       osb:paint="solid"
+       gradientTransform="matrix(0.80256551,0,0,0.80256551,0.2763379,103.50329)">
+      <stop
+         style="stop-color:#945089;stop-opacity:1;"
+         offset="0"
+         id="stop5443" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5157"
        osb:paint="solid">
@@ -75,14 +84,14 @@
        osb:paint="solid"
        gradientTransform="translate(169.70563,409.4484)">
       <stop
-         style="stop-color:#6f6f6f;stop-opacity:1;"
+         style="stop-color:#383838;stop-opacity:1;"
          offset="0"
          id="stop5254" />
     </linearGradient>
     <linearGradient
        id="linearGradient5230"
        osb:paint="solid"
-       gradientTransform="translate(-90.046047,224.01658)">
+       gradientTransform="translate(-90.046047,164.93028)">
       <stop
          style="stop-color:#016699;stop-opacity:1;"
          offset="0"
@@ -108,7 +117,7 @@
     <linearGradient
        id="linearGradient5043"
        osb:paint="solid"
-       gradientTransform="matrix(0.76608211,0,0,0.76608211,-128.09913,370.43101)">
+       gradientTransform="matrix(0.57381959,0,0,0.57381959,-337.16887,404.50394)">
       <stop
          style="stop-color:#8ad447;stop-opacity:1;"
          offset="0"
@@ -2242,37 +2251,8 @@
        x2="374.2041"
        y2="1037.2069"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient4972"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5536"
-       id="linearGradient5020"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-22,34)"
-       x1="70.321999"
-       y1="855.89722"
-       x2="399.63168"
-       y2="855.89722" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5025"
-       id="linearGradient5032"
-       x1="292.88824"
-       y1="-19.309755"
-       x2="292.88824"
-       y2="84.033867"
-       gradientUnits="userSpaceOnUse" />
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter5064">
       <feFlood
@@ -2305,23 +2285,59 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5103"
-       id="linearGradient5135"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5157"
        id="linearGradient5161"
        x1="114.38516"
        y1="1025.1487"
-       x2="415.90547"
+       x2="415.90546"
        y2="1025.1487"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5169"
+       id="linearGradient5179"
+       gradientTransform="translate(169.70563,409.4484)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5181"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5187"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5191"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5193"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5242"
        gradientUnits="userSpaceOnUse"
        x1="337.46484"
        y1="657.50061"
@@ -2330,12 +2346,102 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5171"
+       id="linearGradient5246"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(553.56359,6.0609152)"
        x1="337.46484"
        y1="657.50061"
        x2="792.85742"
        y2="657.50061" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5250"
+       gradientUnits="userSpaceOnUse"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5253"
+       gradientUnits="userSpaceOnUse"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5257"
+       gradientUnits="userSpaceOnUse"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5385"
+       gradientUnits="userSpaceOnUse"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5391"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5536"
+       id="linearGradient5395"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22,-40)"
+       x1="70.321999"
+       y1="855.89722"
+       x2="399.63168"
+       y2="855.89722" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5025"
+       id="linearGradient5403"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.091662,0,-72.690543)"
+       x1="292.88824"
+       y1="-19.309755"
+       x2="292.88824"
+       y2="84.033867" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5407"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5441"
+       id="linearGradient5445"
+       x1="484.04297"
+       y1="815.89722"
+       x2="724.45234"
+       y2="815.89722"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5043"
+       id="linearGradient5447"
+       gradientTransform="matrix(0.57381959,0,0,0.57381959,-337.16887,404.50394)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2344,11 +2450,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="376.69243"
-     inkscape:cy="138.33322"
+     inkscape:zoom="0.7"
+     inkscape:cx="297.05519"
+     inkscape:cy="773.87859"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4743"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
@@ -2356,8 +2462,10 @@
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:guide-bbox="true">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="false">
     <sodipodi:guide
        position="544.28571,315.71429"
        orientation="1,0"
@@ -2371,9 +2479,17 @@
        orientation="1,0"
        id="guide5256" />
     <sodipodi:guide
-       position="314.15744,130.30968"
+       position="114.14724,43.436559"
        orientation="0,1"
        id="guide5258" />
+    <sodipodi:guide
+       position="10,235.71429"
+       orientation="0,1"
+       id="guide5206" />
+    <sodipodi:guide
+       position="347.14286,21.428571"
+       orientation="0,1"
+       id="guide5208" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -2391,20 +2507,22 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="bg-1"
+     transform="translate(0,80)"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5032);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5403);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5023"
        width="825.71429"
-       height="925.71429"
+       height="1010.5671"
        x="-14.285714"
-       y="-14.285714" />
+       y="-88.285713" />
     <use
        x="0"
        y="0"
        xlink:href="#rect5023"
        id="use5133"
-       transform="matrix(-1,0,0,-1,797.14287,897.14287)"
+       transform="matrix(-1,0,0,-1.0807664,797.14287,814.74334)"
        width="100%"
        height="100%" />
   </g>
@@ -2413,45 +2531,42 @@
      id="layer3"
      inkscape:label="bg"
      style="display:inline"
-     transform="translate(0,-300)"
+     transform="translate(0,-220)"
      sodipodi:insensitive="true">
     <path
-       transform="translate(0,47.6379)"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 397.14285,748.86666 0,-230.96802 -247.14285,0"
+       d="m 397.14285,739.67715 0,-248.14061 -247.14285,0"
        id="path5236"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       transform="translate(0,47.6379)"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 159.44166,522.94641 c 0,0 -48.48732,224.25395 153.54319,224.25395 202.0305,0 555.58389,0 555.58389,0"
+       d="m 159.44166,516.58431 c 0,0 -48.48732,224.25395 153.54319,224.25395 202.0305,0 555.58389,0 555.58389,0"
        id="path5222"
        inkscape:connector-curvature="0" />
     <path
-       transform="translate(0,47.6379)"
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path5266"
-       d="m 299.0968,745.51195 0,155.70695 m 226.61748,3.9931 0,-158.56418"
+       d="m 299.0968,719.14985 0,155.70695 m 226.61748,3.9931 0,-158.56418"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:label="fg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-252.3621)"
+     transform="translate(0,-172.3621)"
      style="display:inline">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5954"
-       d="m -23.134097,1174.9569 292.166837,0 97.14286,193.9319 -389.309697,0 z"
+       d="m -17.073182,1193.8909 292.166842,0 97.14286,193.9319 -389.309702,0 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
     <rect
        ry="47.460304"
        rx="35.683258"
-       y="822.21698"
+       y="748.21698"
        x="438.24088"
        height="135.36044"
        width="329.30969"
@@ -2463,17 +2578,17 @@
        width="428.0488"
        height="36.365498"
        x="1080.866"
-       y="940.3302" />
+       y="866.3302" />
     <g
        id="g4743"
-       transform="matrix(1.2464989,0,0,1.2464989,118.72348,-377.29276)"
+       transform="matrix(1.2464989,0,0,1.2464989,118.72348,-451.29276)"
        style="fill:url(#linearGradient5043)">
       <text
          sodipodi:linespacing="125%"
          id="text3355"
          y="547.67749"
          x="342.06067"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5043);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5043);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="547.67749"
            x="342.06067"
@@ -2484,10 +2599,29 @@
          id="path4159"
          d="m 186.39734,559.6775 345.71428,0"
          style="fill:url(#linearGradient5043);fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.04587173px;line-height:100%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5441);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-64.354271"
+         y="534.69537"
+         id="text5435"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           id="tspan5437"
+           x="-64.354271"
+           y="534.69537"
+           style="fill:url(#linearGradient5441);fill-opacity:1">#<tspan
+   style="fill:url(#linearGradient5441)"
+   id="tspan5449">freepanorama</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="-64.354271"
+           y="548.36078"
+           id="tspan5439"
+           style="font-size:10.85103512px;fill:url(#linearGradient5441);fill-opacity:1">.org.ua</tspan></text>
     </g>
     <g
        id="g6017"
-       transform="matrix(1.5141593,0,0,1.5141593,-19.519124,-916.43264)">
+       transform="matrix(1.5141593,0,0,1.5141593,-19.519124,-990.43264)">
       <g
          id="g5036"
          style="filter:url(#filter5064)">
@@ -2831,7 +2965,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1.2311289,0,0,1.2311289,45.13171,87.352245)"
+       transform="matrix(1.2311289,0,0,1.2311289,45.13171,7.352245)"
        id="g6194">
       <line
          id="line152"
@@ -2875,16 +3009,16 @@
       </g>
       <polygon
          id="polygon250"
-         points="525.076,354.23 517.076,351.23 516.576,355.23 " />
+         points="517.076,351.23 516.576,355.23 525.076,354.23 " />
       <polygon
          id="polygon252"
-         points="529.054,379.929 522.831,374.073 520.824,377.571 " />
+         points="522.831,374.073 520.824,377.571 529.054,379.929 " />
       <polygon
          id="polygon254"
-         points="529.078,330.704 520.534,330.594 521.419,334.527 " />
+         points="520.534,330.594 521.419,334.527 529.078,330.704 " />
       <polygon
          id="polygon256"
-         points="526.5,303.841 518.604,307.099 520.963,310.368 " />
+         points="518.604,307.099 520.963,310.368 526.5,303.841 " />
       <g
          id="g6069">
         <path
@@ -3369,7 +3503,7 @@
     </g>
     <g
        id="g3794"
-       transform="matrix(1.5771348,0,0,1.5771348,-9.5010962,-800.8775)">
+       transform="matrix(1.5771348,0,0,1.5771348,-9.5010962,-874.8775)">
       <path
          sodipodi:type="star"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5047);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 4;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
@@ -4188,7 +4322,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5284"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,-74)"><flowRegion
          id="flowRegion5286"><rect
            id="rect5288"
            width="109.92011"
@@ -4199,7 +4334,8 @@
          id="flowPara5290" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5292"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,-74)"><flowRegion
          id="flowRegion5294"><rect
            id="rect5296"
            width="109.92011"
@@ -4209,7 +4345,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed'" /></flowRegion><flowPara
          id="flowPara5298" /></flowRoot>    <g
        id="g4748"
-       transform="translate(850.60155,83.238618)">
+       transform="translate(850.60155,9.238618)">
       <g
          transform="matrix(1,0,0,1.0222174,-281.30241,94.796647)"
          style="opacity:0.73600003"
@@ -4295,7 +4431,7 @@
            id="flowPara5318">вільна публікація в Інтернеті, у фільмах, у книжках, журналах, довідниках тощо. </flowPara></flowRoot>    </g>
     <g
        id="g5277"
-       transform="matrix(0.88456238,0,0,0.88456238,189.95715,375.41281)">
+       transform="matrix(0.88456238,0,0,0.88456238,189.95715,301.41281)">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5304);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 228.29361,513.74407 3.60352,35.61719 -12.69372,0 0,64.52929 12.69372,0 -3.60352,35.61719 67.88281,-67.88086 z"
@@ -4304,7 +4440,7 @@
          sodipodi:nodetypes="cccccccc" />
     </g>
     <g
-       transform="matrix(1.3053431,0,0,1.3053431,680.65558,-214.54714)"
+       transform="matrix(1.3053431,0,0,1.3053431,680.65558,-288.54714)"
        id="g4664">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5043);fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
@@ -5115,7 +5251,7 @@
     </g>
     <g
        id="g5098"
-       transform="translate(1739.5507,-180.65697)">
+       transform="translate(1739.5507,-254.65697)">
       <rect
          y="655.8465"
          x="-529.79694"
@@ -5157,7 +5293,7 @@
        xml:space="preserve"
        id="flowRoot5164"
        style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,552.3621)"><flowRegion
+       transform="translate(0,478.3621)"><flowRegion
          id="flowRegion5166"><rect
            id="rect5168"
            width="334.3605"
@@ -5168,29 +5304,35 @@
          id="flowPara5170" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5172"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient5252);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(43.436559,244.71372)"><flowRegion
-         id="flowRegion5174"><rect
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25px;line-height:114.99999762%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient5193);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(50.579416,160.99943)"><flowRegion
+         id="flowRegion5174"
+         style="fill:url(#linearGradient5183);fill-opacity:1"><rect
            id="rect5176"
-           width="297.99496"
-           height="209.10155"
+           width="302.99493"
+           height="186.24438"
            x="443.45697"
            y="369.68521"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;text-anchor:start;fill:url(#linearGradient5252)" /></flowRegion><flowPara
-         id="flowPara5197"> - в Інтернеті</flowPara><flowPara
-         id="flowPara5199"> - на телебаченні</flowPara><flowPara
-         id="flowPara5201"> - в друкованих виданнях</flowPara></flowRoot>    <rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25px;line-height:114.99999762%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:start;text-anchor:start;fill:url(#linearGradient5181);fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:25px;fill:url(#linearGradient5391);fill-opacity:1"
+         id="flowPara5200"> - в Інтернеті</flowPara><flowPara
+         id="flowPara5199"
+         style="font-size:25px;fill:url(#linearGradient5187);fill-opacity:1"> - на телебаченні</flowPara><flowPara
+         id="flowPara5173"
+         style="font-size:25px;fill:url(#linearGradient5189);fill-opacity:1"> - в друкованих виданнях:</flowPara><flowPara
+         id="flowPara5177"
+         style="font-size:25px;fill:url(#linearGradient5191);fill-opacity:1">   туристичних, навчальних, тощо.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5242"
        width="462.85715"
        height="111.42857"
        x="330"
-       y="332.86673" />
+       y="258.86673" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5264);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5244"
-       transform="translate(-16,-292.92393)"><flowRegion
+       transform="translate(-16,-319.1879)"><flowRegion
          id="flowRegion5246"
          style="fill:url(#linearGradient5260);fill-opacity:1"><use
            x="0"
@@ -5200,22 +5342,22 @@
            width="100%"
            height="100%"
            style="fill:url(#linearGradient5258);fill-opacity:1"
-           transform="translate(8,292.92393)" /></flowRegion><flowPara
+           transform="translate(16,319.1879)" /></flowRegion><flowPara
          id="flowPara5250"
-         style="fill:url(#linearGradient5171);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5020);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+         style="fill:url(#linearGradient5242);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5395);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
        height="135.36044"
        x="48.321999"
-       y="822.21698"
+       y="748.21698"
        rx="35.683258"
        ry="47.460304" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5792);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5299"
-       transform="translate(0,5.1332833)"><flowRegion
+       transform="translate(0,-21.130683)"><flowRegion
          id="flowRegion5301"
          style="fill:url(#linearGradient5788)"><use
            x="0"
@@ -5225,13 +5367,13 @@
            width="100%"
            height="100%"
            style="fill:url(#linearGradient5786)"
-           transform="translate(0,-5.1332833)" /></flowRegion><flowPara
+           transform="translate(0,21.130683)" /></flowRegion><flowPara
          id="flowPara5305"
-         style="fill:url(#linearGradient4972)">Свобода панорами існує у <flowSpan
+         style="fill:url(#linearGradient5246)">Свобода панорами існує у <flowSpan
    style="fill:url(#linearGradient5224)"
    id="flowSpan5307">83 країнах світу</flowSpan> — зокрема в більшості країн ЄС, у США, Японії і навіть Росії.</flowPara></flowRoot>    <g
        id="g5502"
-       transform="matrix(0.33865118,0,0,0.33865118,250.00299,698.30409)">
+       transform="matrix(0.33865118,0,0,0.33865118,250.00299,644.30409)">
       <g
          id="layer2-3"
          style="display:inline" />
@@ -5373,24 +5515,24 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#945089;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient5445);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="604.35547"
-       y="863.36993"
+       y="789.36993"
        id="text5528"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5530"
          x="604.35547"
-         y="863.36993"
-         style="line-height:100%;fill:#945089;fill-opacity:1">законопроект</tspan><tspan
+         y="789.36993"
+         style="line-height:100%;fill:url(#linearGradient5445);fill-opacity:1">законопроект</tspan><tspan
          sodipodi:role="line"
          x="604.35547"
-         y="935.69354"
+         y="861.69354"
          id="tspan5532"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#945089;fill-opacity:1">№1677</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:url(#linearGradient5445);fill-opacity:1">№1677</tspan></text>
     <g
        id="g5765"
-       transform="matrix(0.34486044,0,0,0.34486044,493.25902,700.11835)">
+       transform="matrix(0.34486044,0,0,0.34486044,493.25902,646.11835)">
       <polyline
          id="polyline4372"
          points="0,256 0,0 256,0 256,256 "
@@ -5428,17 +5570,17 @@
     </g>
     <g
        id="g5101"
-       transform="translate(-51.047104,18.93692)">
+       transform="translate(-51.047104,-35.06308)">
       <rect
-         y="973.79071"
-         x="114.28571"
-         height="104.4119"
-         width="320.95065"
+         y="959.64856"
+         x="106.20449"
+         height="176.49011"
+         width="330.32156"
          id="rect5080"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
       <flowRoot
          id="flowRoot5082"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><flowRegion
            id="flowRegion5084"><use
              id="use5086"
@@ -5447,12 +5589,12 @@
              x="0"
              width="100%"
              height="100%" /></flowRegion><flowPara
-           id="flowPara5088">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій.</flowPara></flowRoot>      <path
+           id="flowPara5236">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистец- тва лише задля висвітлення поточних подій. Тобто, якщо ви бажаєте сфотографувати бу- дівлю чи пам'ятник, станцію метро чи мемо- ріальну дошку, вам необхідно отримати на це дозвіл у автора (архітектора або скульптора).</flowPara></flowRoot>      <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect5094"
-         d="m 128.57143,1090.0496 -15,0 -15.000004,0 0,-126.25889 30.000004,0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5135);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
+         d="m 128.57143,1143.8031 -15,0 -15.000004,0 0,-188.58382 30.000004,0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5407);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
       <use
          height="100%"
          width="100%"
@@ -5463,32 +5605,18 @@
          x="0" />
     </g>
     <g
-       transform="translate(328.9529,18.93692)"
+       transform="translate(328.9529,-35.06308)"
        id="g5139">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
          id="rect5141"
          width="320.95065"
-         height="104.4119"
+         height="177.92026"
          x="114.28571"
-         y="973.79071" />
-      <flowRoot
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5161);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot5143"><flowRegion
-           id="flowRegion5145"
-           style="fill-opacity:1;fill:url(#linearGradient5161)"><use
-             height="100%"
-             width="100%"
-             x="0"
-             y="0"
-             xlink:href="#rect5080"
-             id="use5147"
-             style="fill-opacity:1;fill:url(#linearGradient5161)" /></flowRegion><flowPara
-           id="flowPara5149"
-           style="fill-opacity:1;fill:url(#linearGradient5161)">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій.</flowPara></flowRoot>      <path
+         y="958.32153" />
+      <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5043);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5157);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
-         d="m 128.57143,1090.0496 -15,0 -15.000004,0 0,-126.25889 30.000004,0"
+         d="m 128.57143,1143.2113 -15,0 -15.000004,0 0,-188.7063 30.000004,0"
          id="path5151"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
@@ -5500,6 +5628,19 @@
          transform="matrix(-1,0,0,1,547.18558,0)"
          width="100%"
          height="100%" />
-    </g>
+      <flowRoot
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:url(#linearGradient5257);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         id="flowRoot5214"><flowRegion
+           id="flowRegion5216"
+           style="fill:url(#linearGradient5253)"><use
+             x="0"
+             y="0"
+             xlink:href="#rect5141"
+             id="use5218"
+             width="100%"
+             height="100%"
+             style="fill:url(#linearGradient5250)" /></flowRegion><flowPara
+           id="flowPara5433">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео тво- рів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-парко- вого мистецтва, що знаходяться у громадсь- ких і публічно доступних місцях без потреби отримувати на це дозвіл архітектора.</flowPara></flowRoot>    </g>
   </g>
 </svg>
