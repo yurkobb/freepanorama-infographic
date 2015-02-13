@@ -21,8 +21,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="infographic.svg"
    inkscape:export-filename="/home/yurb/culture/wp/freepanorama/infographic/new/infographic.png"
-   inkscape:export-xdpi="89.963699"
-   inkscape:export-ydpi="89.963699">
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -65,7 +65,7 @@
     <linearGradient
        id="linearGradient5929"
        osb:paint="solid"
-       gradientTransform="translate(0,504.7242)">
+       gradientTransform="translate(2,504.7242)">
       <stop
          style="stop-color:#e4e7b7;stop-opacity:1;"
          offset="0"
@@ -2337,15 +2337,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5242"
-       gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
        id="linearGradient5246"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(553.56359,6.0609152)"
@@ -2450,15 +2441,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="297.05519"
-     inkscape:cy="773.87859"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="541.53516"
+     inkscape:cy="193.28901"
      inkscape:document-units="px"
-     inkscape:current-layer="g4743"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
-     inkscape:window-height="576"
+     inkscape:window-height="575"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -2499,7 +2490,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5324,13 +5315,13 @@
          style="font-size:25px;fill:url(#linearGradient5191);fill-opacity:1">   туристичних, навчальних, тощо.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5242"
-       width="462.85715"
-       height="111.42857"
-       x="330"
+       width="529.52728"
+       height="111.42856"
+       x="263.32993"
        y="258.86673" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5264);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:114.99999762%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5264);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5244"
        transform="translate(-16,-319.1879)"><flowRegion
          id="flowRegion5246"
@@ -5343,8 +5334,7 @@
            height="100%"
            style="fill:url(#linearGradient5258);fill-opacity:1"
            transform="translate(16,319.1879)" /></flowRegion><flowPara
-         id="flowPara5250"
-         style="fill:url(#linearGradient5242);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
+         id="flowPara5020">дозволяє вільну публікацію світлин, відео та малюнків архітектури, пам'ятників та інших об'єктів авторського права, розміщених у публічних місцях.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5395);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
@@ -5580,7 +5570,7 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
       <flowRoot
          id="flowRoot5082"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><flowRegion
            id="flowRegion5084"><use
              id="use5086"
@@ -5589,7 +5579,7 @@
              x="0"
              width="100%"
              height="100%" /></flowRegion><flowPara
-           id="flowPara5236">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистец- тва лише задля висвітлення поточних подій. Тобто, якщо ви бажаєте сфотографувати бу- дівлю чи пам'ятник, станцію метро чи мемо- ріальну дошку, вам необхідно отримати на це дозвіл у автора (архітектора або скульптора).</flowPara></flowRoot>      <path
+           id="flowPara5014">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій. Тобто, якщо ви бажаєте сфотографувати будівлю чи пам'ятник, станцію метро чи меморіальну дошку, вам необхідно отримати на це дозвіл у автора (архітектора або скульптора).</flowPara></flowRoot>      <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect5094"
@@ -5610,9 +5600,9 @@
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
          id="rect5141"
-         width="320.95065"
-         height="177.92026"
-         x="114.28571"
+         width="333.07242"
+         height="177.92029"
+         x="108.20449"
          y="958.32153" />
       <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5043);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5157);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
@@ -5641,6 +5631,6 @@
              width="100%"
              height="100%"
              style="fill:url(#linearGradient5250)" /></flowRegion><flowPara
-           id="flowPara5433">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео тво- рів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-парко- вого мистецтва, що знаходяться у громадсь- ких і публічно доступних місцях без потреби отримувати на це дозвіл архітектора.</flowPara></flowRoot>    </g>
+           id="flowPara5016">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео творів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-паркового мистецтва, що знаходяться у громадських і публічно доступних місцях без потреби отримувати на це дозвіл архітектора.</flowPara></flowRoot>    </g>
   </g>
 </svg>
