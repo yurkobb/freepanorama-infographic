@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    xmlns:ns3="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
    xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,12 +14,15 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
-   height="1200"
+   height="900"
    viewBox="0 0 2267.7165 0"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="infographic.svg">
+   sodipodi:docname="infographic.svg"
+   inkscape:export-filename="/home/yurb/culture/wp/freepanorama/infographic/new/infographic.png"
+   inkscape:export-xdpi="89.963699"
+   inkscape:export-ydpi="89.963699">
   <defs
      id="defs4">
     <linearGradient
@@ -83,7 +86,7 @@
     <linearGradient
        id="linearGradient5043"
        osb:paint="solid"
-       gradientTransform="matrix(0.76608211,0,0,0.76608211,-46.670562,386.14529)">
+       gradientTransform="matrix(0.76608211,0,0,0.76608211,-128.09913,370.43101)">
       <stop
          style="stop-color:#96cb66;stop-opacity:1;"
          offset="0"
@@ -1927,15 +1930,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5262"
-       gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
        id="linearGradient5264"
        gradientUnits="userSpaceOnUse"
        x1="337.46484"
@@ -2112,15 +2106,6 @@
        x2="269.33331"
        y2="141.97276" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5536"
-       id="linearGradient5540"
-       x1="70.321999"
-       y1="855.8972"
-       x2="399.63169"
-       y2="855.8972"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="123.21392"
        x2="132.62358"
@@ -2219,16 +2204,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5790"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
        id="linearGradient5792"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(553.56359,6.0609152)"
@@ -2263,19 +2238,48 @@
        y1="1037.2069"
        x2="374.2041"
        y2="1037.2069" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient4967"
+       gradientUnits="userSpaceOnUse"
+       x1="337.46484"
+       y1="657.50061"
+       x2="792.85742"
+       y2="657.50061" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient4972"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(553.56359,6.0609152)"
+       x1="337.46484"
+       y1="657.50061"
+       x2="792.85742"
+       y2="657.50061" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5536"
+       id="linearGradient5020"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-22,34)"
+       x1="70.321999"
+       y1="855.89722"
+       x2="399.63168"
+       y2="855.89722" />
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="411.96076"
-     inkscape:cy="218.59856"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="668.10494"
+     inkscape:cy="498.78593"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
@@ -2318,14 +2322,15 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="bg"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-300)">
     <path
        transform="translate(0,47.6379)"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 397.14285,543.15245 0,205.71421"
+       d="m 397.14285,748.86666 0,-230.96802 -247.14285,0"
        id="path5236"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="ccc" />
     <path
        transform="translate(0,47.6379)"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1"
@@ -2334,17 +2339,17 @@
        inkscape:connector-curvature="0" />
     <path
        transform="translate(0,47.6379)"
-       sodipodi:nodetypes="ccscc"
+       sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path5266"
-       d="m 299.0968,745.51195 0,155.70695 c 0,0 -10.68131,56.7165 115.30528,56.7165 119.43548,0 111.3122,-52.7234 111.3122,-52.7234 l 0,-158.56418"
+       d="m 299.0968,745.51195 0,155.70695 m 226.61748,3.9931 0,-158.56418"
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5230);stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:label="fg"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,47.6379)"
+     transform="translate(0,-252.3621)"
      style="display:inline">
     <path
        sodipodi:nodetypes="ccccc"
@@ -2355,8 +2360,8 @@
     <rect
        ry="47.460304"
        rx="35.683258"
-       y="788.21698"
-       x="460.24088"
+       y="822.21698"
+       x="438.24088"
        height="135.36044"
        width="329.30969"
        id="rect5534"
@@ -4194,7 +4199,7 @@
            id="flowPara5318">вільна публікація в Інтернеті, у фільмах, у книжках, журналах, довідниках тощо. </flowPara></flowRoot>    </g>
     <g
        id="g5277"
-       transform="matrix(0.88456238,0,0,0.88456238,211.95715,341.41281)">
+       transform="matrix(0.88456238,0,0,0.88456238,189.95715,375.41281)">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5304);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 228.29361,513.74407 3.60352,35.61719 -12.69372,0 0,64.52929 12.69372,0 -3.60352,35.61719 67.88281,-67.88086 z"
@@ -5064,7 +5069,7 @@
            x="438.40619"
            y="377.76645"
            style="font-size:22.5px" /></flowRegion><flowPara
-         id="flowPara5170"></flowPara></flowRoot>    <flowRoot
+         id="flowPara5170" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5172"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient5252);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5101,13 +5106,13 @@
            style="fill:url(#linearGradient5258);fill-opacity:1"
            transform="translate(8,292.92393)" /></flowRegion><flowPara
          id="flowPara5250"
-         style="fill:url(#linearGradient5262);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5540);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+         style="fill:url(#linearGradient4967);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5020);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
        height="135.36044"
-       x="70.321999"
-       y="788.21698"
+       x="48.321999"
+       y="822.21698"
        rx="35.683258"
        ry="47.460304" />
     <flowRoot
@@ -5123,9 +5128,10 @@
            id="use5303"
            width="100%"
            height="100%"
-           style="fill:url(#linearGradient5786)" /></flowRegion><flowPara
+           style="fill:url(#linearGradient5786)"
+           transform="translate(0,-5.1332833)" /></flowRegion><flowPara
          id="flowPara5305"
-         style="fill:url(#linearGradient5790)">Свобода панорами існує у <flowSpan
+         style="fill:url(#linearGradient4972)">Свобода панорами існує у <flowSpan
    style="fill:url(#linearGradient5224)"
    id="flowSpan5307">83 країнах світу</flowSpan> — зокрема в більшості країн ЄС, у США, Японії і навіть Росії.</flowPara></flowRoot>    <g
        id="g5502"
@@ -5272,18 +5278,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#945089;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="626.35547"
-       y="829.36993"
+       x="604.35547"
+       y="863.36993"
        id="text5528"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5530"
-         x="626.35547"
-         y="829.36993"
+         x="604.35547"
+         y="863.36993"
          style="line-height:100%;fill:#945089;fill-opacity:1">законопроект</tspan><tspan
          sodipodi:role="line"
-         x="626.35547"
-         y="901.69354"
+         x="604.35547"
+         y="935.69354"
          id="tspan5532"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#945089;fill-opacity:1">№1677</tspan></text>
     <g
@@ -5334,7 +5340,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5919"
-       transform="translate(185.48949,105.8724)"><flowRegion
+       transform="translate(233.97681,97.79118)"><flowRegion
          id="flowRegion5921"
          style="fill:url(#linearGradient5951);fill-opacity:1"><use
            x="0"
