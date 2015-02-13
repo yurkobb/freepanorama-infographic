@@ -26,6 +26,14 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient5157"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2d880e;stop-opacity:1;"
+         offset="0"
+         id="stop5159" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient5025">
       <stop
@@ -47,7 +55,8 @@
     </linearGradient>
     <linearGradient
        id="linearGradient5929"
-       osb:paint="solid">
+       osb:paint="solid"
+       gradientTransform="translate(0,504.7242)">
       <stop
          style="stop-color:#e4e7b7;stop-opacity:1;"
          offset="0"
@@ -64,7 +73,7 @@
     <linearGradient
        id="linearGradient5252"
        osb:paint="solid"
-       gradientTransform="translate(169.70563,-95.2758)">
+       gradientTransform="translate(169.70563,409.4484)">
       <stop
          style="stop-color:#6f6f6f;stop-opacity:1;"
          offset="0"
@@ -89,7 +98,8 @@
     </linearGradient>
     <linearGradient
        id="linearGradient5103"
-       osb:paint="solid">
+       osb:paint="solid"
+       gradientTransform="translate(-178.57143,284.28571)">
       <stop
          style="stop-color:#c41818;stop-opacity:1;"
          offset="0"
@@ -100,7 +110,7 @@
        osb:paint="solid"
        gradientTransform="matrix(0.76608211,0,0,0.76608211,-128.09913,370.43101)">
       <stop
-         style="stop-color:#96cb66;stop-opacity:1;"
+         style="stop-color:#8ad447;stop-opacity:1;"
          offset="0"
          id="stop5045" />
     </linearGradient>
@@ -2235,33 +2245,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5947"
-       gradientUnits="userSpaceOnUse"
-       x1="100.76504"
-       y1="1037.2069"
-       x2="374.2041"
-       y2="1037.2069" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5951"
-       gradientUnits="userSpaceOnUse"
-       x1="100.76504"
-       y1="1037.2069"
-       x2="374.2041"
-       y2="1037.2069" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient4967"
-       gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
        id="linearGradient4972"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(553.56359,6.0609152)"
@@ -2320,6 +2303,39 @@
          result="composite2"
          id="feComposite5074" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient5135"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5161"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90547"
+       y2="1025.1487"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5169"
+       gradientUnits="userSpaceOnUse"
+       x1="337.46484"
+       y1="657.50061"
+       x2="792.85742"
+       y2="657.50061" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient5171"
+       gradientUnits="userSpaceOnUse"
+       x1="337.46484"
+       y1="657.50061"
+       x2="792.85742"
+       y2="657.50061" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2328,11 +2344,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="505.40091"
-     inkscape:cy="198.68176"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="376.69243"
+     inkscape:cy="138.33322"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
@@ -2374,7 +2390,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="bg-1">
+     inkscape:label="bg-1"
+     sodipodi:insensitive="true">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5032);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5023"
@@ -2382,6 +2399,14 @@
        height="925.71429"
        x="-14.285714"
        y="-14.285714" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect5023"
+       id="use5133"
+       transform="matrix(-1,0,0,-1,797.14287,897.14287)"
+       width="100%"
+       height="100%" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2416,13 +2441,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-252.3621)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path5954"
-       d="m -2.9310459,1023.434 292.1668359,0 97.14286,193.9319 -389.3096959,0 z"
+       d="m -23.134097,1174.9569 292.166837,0 97.14286,193.9319 -389.309697,0 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
     <rect
        ry="47.460304"
@@ -2442,13 +2466,14 @@
        y="940.3302" />
     <g
        id="g4743"
-       transform="translate(249.88838,-239.20965)">
+       transform="matrix(1.2464989,0,0,1.2464989,118.72348,-377.29276)"
+       style="fill:url(#linearGradient5043)">
       <text
          sodipodi:linespacing="125%"
          id="text3355"
          y="547.67749"
          x="342.06067"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#a3c248;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5043);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
            y="547.67749"
            x="342.06067"
@@ -2458,7 +2483,7 @@
          inkscape:connector-curvature="0"
          id="path4159"
          d="m 186.39734,559.6775 345.71428,0"
-         style="fill:#808080;fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:url(#linearGradient5043);fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        id="g6017"
@@ -2850,16 +2875,16 @@
       </g>
       <polygon
          id="polygon250"
-         points="516.576,355.23 525.076,354.23 517.076,351.23 " />
+         points="525.076,354.23 517.076,351.23 516.576,355.23 " />
       <polygon
          id="polygon252"
-         points="520.824,377.571 529.054,379.929 522.831,374.073 " />
+         points="529.054,379.929 522.831,374.073 520.824,377.571 " />
       <polygon
          id="polygon254"
-         points="521.419,334.527 529.078,330.704 520.534,330.594 " />
+         points="529.078,330.704 520.534,330.594 521.419,334.527 " />
       <polygon
          id="polygon256"
-         points="520.963,310.368 526.5,303.841 518.604,307.099 " />
+         points="526.5,303.841 518.604,307.099 520.963,310.368 " />
       <g
          id="g6069">
         <path
@@ -5165,7 +5190,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5264);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5244"
-       transform="translate(-8,-292.92393)"><flowRegion
+       transform="translate(-16,-292.92393)"><flowRegion
          id="flowRegion5246"
          style="fill:url(#linearGradient5260);fill-opacity:1"><use
            x="0"
@@ -5177,7 +5202,7 @@
            style="fill:url(#linearGradient5258);fill-opacity:1"
            transform="translate(8,292.92393)" /></flowRegion><flowPara
          id="flowPara5250"
-         style="fill:url(#linearGradient4967);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
+         style="fill:url(#linearGradient5171);fill-opacity:1">дозволяє вільну публікацію світлин, відео та малюнків архітектури та пам'ятників</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5020);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
@@ -5401,27 +5426,80 @@
          d="m 248.35974,206.96001 c -80.24012,-42.45169 -160.480231,51.37712 -240.7195788,8.92543 0,-55.61478 0,-111.23035 0,-166.845894 C 87.879509,91.490468 168.11962,-2.3375794 248.35974,40.114878 c 0,55.614786 0,111.230352 0,166.845132 z"
          inkscape:connector-curvature="0" />
     </g>
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
-       d="m 27.068954,1023.434 292.166836,0 97.14286,193.9319 -389.309696,0 z"
-       id="rect5799"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot5919"
-       transform="translate(233.97681,97.79118)"><flowRegion
-         id="flowRegion5921"
-         style="fill:url(#linearGradient5951);fill-opacity:1"><use
-           x="0"
-           y="0"
-           xlink:href="#rect5799"
-           id="use5923"
-           width="100%"
-           height="100%"
-           style="fill:url(#linearGradient5947);fill-opacity:1"
-           transform="translate(-246.91806,-91.586686)" /></flowRegion><flowPara
-         id="flowPara5927"
-         style="font-size:20px;text-align:start;text-anchor:start;fill:url(#linearGradient5103);fill-opacity:1">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій.</flowPara></flowRoot>  </g>
+    <g
+       id="g5101"
+       transform="translate(-51.047104,18.93692)">
+      <rect
+         y="973.79071"
+         x="114.28571"
+         height="104.4119"
+         width="320.95065"
+         id="rect5080"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
+      <flowRoot
+         id="flowRoot5082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5084"><use
+             id="use5086"
+             xlink:href="#rect5080"
+             y="0"
+             x="0"
+             width="100%"
+             height="100%" /></flowRegion><flowPara
+           id="flowPara5088">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій.</flowPara></flowRoot>      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5094"
+         d="m 128.57143,1090.0496 -15,0 -15.000004,0 0,-126.25889 30.000004,0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5135);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
+      <use
+         height="100%"
+         width="100%"
+         transform="matrix(-1,0,0,1,544.35318,0)"
+         id="use5099"
+         xlink:href="#rect5094"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       transform="translate(328.9529,18.93692)"
+       id="g5139">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+         id="rect5141"
+         width="320.95065"
+         height="104.4119"
+         x="114.28571"
+         y="973.79071" />
+      <flowRoot
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5161);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot5143"><flowRegion
+           id="flowRegion5145"
+           style="fill-opacity:1;fill:url(#linearGradient5161)"><use
+             height="100%"
+             width="100%"
+             x="0"
+             y="0"
+             xlink:href="#rect5080"
+             id="use5147"
+             style="fill-opacity:1;fill:url(#linearGradient5161)" /></flowRegion><flowPara
+           id="flowPara5149"
+           style="fill-opacity:1;fill:url(#linearGradient5161)">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій.</flowPara></flowRoot>      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5043);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5157);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
+         d="m 128.57143,1090.0496 -15,0 -15.000004,0 0,-126.25889 30.000004,0"
+         id="path5151"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path5151"
+         id="use5163"
+         transform="matrix(-1,0,0,1,547.18558,0)"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
 </svg>
