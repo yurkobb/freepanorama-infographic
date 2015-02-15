@@ -2420,15 +2420,6 @@
        y2="1025.1487" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5157"
-       id="linearGradient4225"
-       gradientUnits="userSpaceOnUse"
-       x1="114.38516"
-       y1="1025.1487"
-       x2="415.90546"
-       y2="1025.1487" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5103"
        id="linearGradient4227"
        gradientUnits="userSpaceOnUse"
@@ -2445,7 +2436,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5307"
+       id="linearGradient5309"
        gradientUnits="userSpaceOnUse"
        x1="337.46484"
        y1="657.50061"
@@ -2453,13 +2444,22 @@
        y2="657.50061" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5309"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5313"
        gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient5315"
+       gradientUnits="userSpaceOnUse"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2468,11 +2468,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="524.83244"
-     inkscape:cy="197.61936"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="496.61887"
+     inkscape:cy="145.9998"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5139"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
@@ -5644,8 +5644,9 @@
          height="100%" />
       <flowRoot
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4205);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot5214"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5315);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot5214"
+         transform="translate(0,2)"><flowRegion
            id="flowRegion5216"
            style="fill:url(#linearGradient5253)"><use
              x="0"
@@ -5655,8 +5656,8 @@
              width="100%"
              height="100%"
              style="fill:url(#linearGradient5250)" /></flowRegion><flowPara
-           id="flowPara5016"
-           style="fill:url(#linearGradient4225)">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео творів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-паркового мистецтва, що знаходяться у громадських і публічно доступних місцях без потреби отримувати на це дозвіл архітектора.</flowPara></flowRoot>    </g>
+           id="flowPara5311"
+           style="fill:url(#linearGradient5313)">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео творів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-парко- вого мистецтва, що знаходяться у громадських і публічно доступних місцях, без потреби отримувати дозвіл у архітектора (скульптора).</flowPara></flowRoot>    </g>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5252);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        d="m 232.85715,1205.9335 339.99999,0 18.57143,47.1429 -377.14285,0 z"
