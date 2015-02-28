@@ -108,7 +108,7 @@
     <linearGradient
        id="linearGradient5103"
        osb:paint="solid"
-       gradientTransform="translate(-178.57143,284.28571)">
+       gradientTransform="translate(-49.428573,284.28571)">
       <stop
          style="stop-color:#c41818;stop-opacity:1;"
          offset="0"
@@ -1345,24 +1345,6 @@
        y2="657.50061"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5258"
-       gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5260"
-       gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
        gradientTransform="matrix(1.567692,0,0,1.567692,-129.3706,-94.56783)"
        gradientUnits="userSpaceOnUse"
        id="XMLID_22_"
@@ -1610,36 +1592,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5786"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5788"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5792"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
        id="linearGradient5945"
        x1="100.76504"
        y1="1037.2069"
@@ -1696,60 +1648,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5181"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5183"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5187"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5189"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5191"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5193"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5157"
-       id="linearGradient5250"
-       gradientUnits="userSpaceOnUse"
-       x1="114.38516"
-       y1="1025.1487"
-       x2="415.90546"
-       y2="1025.1487" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5157"
-       id="linearGradient5253"
-       gradientUnits="userSpaceOnUse"
-       x1="114.38516"
-       y1="1025.1487"
-       x2="415.90546"
-       y2="1025.1487" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
        id="linearGradient5377"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(169.70563,409.4484)" />
@@ -1762,12 +1660,6 @@
        y1="1025.1487"
        x2="415.90546"
        y2="1025.1487" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5391"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5536"
@@ -1821,8 +1713,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5276"
+       id="linearGradient4051"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96798408,0,0,0.96798408,509.6106,-305.40863)"
        x1="337.46484"
        y1="657.50061"
        x2="792.85742"
@@ -1830,40 +1723,29 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient5309"
+       id="linearGradient4085"
        gradientUnits="userSpaceOnUse"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5157"
-       id="linearGradient5315"
-       gradientUnits="userSpaceOnUse"
-       x1="114.38516"
-       y1="1025.1487"
-       x2="415.90546"
-       y2="1025.1487" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5157"
-       id="linearGradient8811"
-       gradientUnits="userSpaceOnUse"
-       x1="114.38516"
-       y1="1025.1487"
-       x2="415.90546"
-       y2="1025.1487" />
+       gradientTransform="translate(220.28505,570.44783)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5252"
-       id="linearGradient8819"
+       id="linearGradient4133"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
+       gradientTransform="translate(692.99216,-11.069768)"
        x1="337.46484"
        y1="657.50061"
        x2="792.85742"
        y2="657.50061" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5157"
+       id="linearGradient4271"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(162.59173,0.9289322)"
+       x1="114.38516"
+       y1="1025.1487"
+       x2="415.90546"
+       y2="1025.1487" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1873,8 +1755,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="370.16399"
-     inkscape:cy="733.3769"
+     inkscape:cx="437.30685"
+     inkscape:cy="287.66261"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3764,52 +3646,101 @@
            x="438.40619"
            y="377.76645"
            style="font-size:22.5px" /></flowRegion><flowPara
-         id="flowPara5170" /></flowRoot>    <flowRoot
+         id="flowPara5170" /></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot5172"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient5193);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(50.579416,160.99943)"><flowRegion
-         id="flowRegion5174"
-         style="fill:url(#linearGradient5183);fill-opacity:1"><rect
-           id="rect5176"
-           width="308.04568"
-           height="184.22404"
-           x="438.40622"
-           y="371.70551"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:url(#linearGradient5181);fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:20px;fill:url(#linearGradient5391);fill-opacity:1"
-         id="flowPara5200"> - в Інтернеті</flowPara><flowPara
-         id="flowPara5199"
-         style="font-size:20px;fill:url(#linearGradient5187);fill-opacity:1"> - на телебаченні</flowPara><flowPara
-         id="flowPara5173"
-         style="font-size:20px;fill:url(#linearGradient5189);fill-opacity:1"> - у друкованих виданнях:</flowPara><flowPara
-         id="flowPara5177"
-         style="font-size:20px;fill:url(#linearGradient5191);fill-opacity:1">   туристичних, навчальних,</flowPara><flowPara
-         style="font-size:20px;fill:url(#linearGradient5191);fill-opacity:1"
-         id="flowPara8785">   тощо.</flowPara></flowRoot>    <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
-       id="rect5242"
-       width="529.52728"
-       height="111.42856"
-       x="263.32993"
-       y="258.86673" />
-    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient4085);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="488.98566"
+       y="550.81152"
+       id="text4053"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         x="488.98566"
+         y="550.81152"
+         id="tspan4055"
+         style="fill:url(#linearGradient4085)"><tspan
+           x="488.98566"
+           y="550.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4057"> - в Інтернеті</tspan><tspan
+           dx="0"
+           x="605.89972"
+           y="550.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4059" /></tspan><tspan
+         sodipodi:role="line"
+         x="488.98566"
+         y="573.81152"
+         id="tspan4061"
+         style="fill:url(#linearGradient4085)"><tspan
+           x="488.98566"
+           y="573.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4063"> - на телебаченні</tspan><tspan
+           dx="0"
+           x="646.29034"
+           y="573.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4065" /></tspan><tspan
+         sodipodi:role="line"
+         x="488.98566"
+         y="596.81152"
+         id="tspan4067"
+         style="fill:url(#linearGradient4085)"><tspan
+           x="488.98566"
+           y="596.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4069"> - у друкованих виданнях:</tspan><tspan
+           dx="0"
+           x="727.38409"
+           y="596.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4071" /></tspan><tspan
+         sodipodi:role="line"
+         x="488.98566"
+         y="619.81152"
+         id="tspan4073"
+         style="fill:url(#linearGradient4085)"><tspan
+           x="488.98566"
+           y="619.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4075">   туристичних, навчальних,</tspan><tspan
+           dx="0"
+           x="744.57159"
+           y="619.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4077" /></tspan><tspan
+         sodipodi:role="line"
+         x="488.98566"
+         y="642.81152"
+         id="tspan4079"
+         style="fill:url(#linearGradient4085)"><tspan
+           x="488.98566"
+           y="642.81152"
+           style="font-size:20px;fill:url(#linearGradient4085);fill-opacity:1"
+           id="tspan4081">   тощо.</tspan></tspan></text>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.66149712px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5276);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot5244"
-       transform="matrix(0.96798408,0,0,0.96798408,3.8963148,-302.55149)"><flowRegion
-         id="flowRegion5246"
-         style="fill:url(#linearGradient5260);fill-opacity:1"><use
-           x="0"
-           y="0"
-           xlink:href="#rect5242"
-           id="use5248"
-           width="100%"
-           height="100%"
-           style="fill:url(#linearGradient5258);fill-opacity:1"
-           transform="translate(16,319.1879)" /></flowRegion><flowPara
-         id="flowPara5020"
-         style="font-size:20.66149712px;fill:url(#linearGradient5309)">дозволяє вільну публікацію світлин, відео та малюнків архітектури, пам'ятників та інших об'єктів авторськогo права, розміщених у публічних місцях.</flowPara></flowRoot>    <rect
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient4051);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="787.72797"
+       y="272.24609"
+       id="text4023"
+       sodipodi:linespacing="115%"><tspan
+         sodipodi:role="line"
+         id="tspan4043"
+         style="fill:url(#linearGradient4051)"
+         x="787.72797"
+         y="272.24609">дозволяє вільну публікацію світлин, відео та малюнків</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4045"
+         style="fill:url(#linearGradient4051)"
+         x="787.72797"
+         y="295.24609">архітектури, пам'ятників та інших об'єктів авторського</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4047"
+         style="fill:url(#linearGradient4051)"
+         x="787.72797"
+         y="318.24609">права, розміщених у публічних місцях.</tspan></text>
+    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5395);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
@@ -3818,25 +3749,36 @@
        y="748.21698"
        rx="35.683258"
        ry="47.460304" />
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:139.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5792);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot5299"
-       transform="translate(0,-17.130683)"><flowRegion
-         id="flowRegion5301"
-         style="fill:url(#linearGradient5788)"><use
-           x="0"
-           y="0"
-           xlink:href="#rect5297"
-           id="use5303"
-           width="100%"
-           height="100%"
-           style="fill:url(#linearGradient5786)"
-           transform="translate(0,21.130683)" /></flowRegion><flowPara
-         id="flowPara5305"
-         style="font-size:22.5px;line-height:139.99999762%;fill:url(#linearGradient8819)">Свобода панорами існує у <flowSpan
-   style="font-size:22.5px;line-height:139.99999762%;fill:url(#linearGradient5224)"
-   id="flowSpan5307">83 країнах світу</flowSpan> — зокрема в більшості країн ЄС, у США, Японії і навіть Росії.</flowPara></flowRoot>    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:139.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4133);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="214.81236"
+       y="777.01569"
+       id="text4087"
+       sodipodi:linespacing="140%"><tspan
+         sodipodi:role="line"
+         id="tspan4119"
+         style="fill:url(#linearGradient4133)"
+         x="217.93248"
+         y="777.01569">Свобода панорами існує у </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4121"
+         style="fill:url(#linearGradient4133)"
+         x="217.93248"
+         y="808.51569"><tspan
+   style="fill:#000000"
+   id="tspan4135">83 країнах світу</tspan> — зокрема </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4123"
+         style="fill:url(#linearGradient4133)"
+         x="217.93248"
+         y="840.01569">в більшості країн ЄС, у США, </tspan><tspan
+         sodipodi:role="line"
+         id="tspan4125"
+         style="fill:url(#linearGradient4133)"
+         x="214.81236"
+         y="871.51569">Японії і навіть Росії.</tspan></text>
+    <g
        id="g5502"
        transform="matrix(0.33865118,0,0,0.33865118,250.00299,644.30409)">
       <g
@@ -4036,25 +3978,46 @@
     <g
        id="g5101"
        transform="translate(-51.047104,-45.06308)">
-      <rect
-         y="959.64856"
-         x="106.20449"
-         height="176.49011"
-         width="330.32156"
-         id="rect5080"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
-      <flowRoot
-         id="flowRoot5082"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:-0.1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5084"><use
-             id="use5086"
-             xlink:href="#rect5080"
-             y="0"
-             x="0"
-             width="100%"
-             height="100%" /></flowRegion><flowPara
-           id="flowPara5014">Наразі українське законодавство дозволяє відтворювати твори архітектури та мистецтва лише задля висвітлення поточних подій. Тобто, якщо Ви бажаєте сфотографувати будівлю чи пам'ятник, станцію метро чи меморіальну дошку, Вам необхідно отримати на це дозвіл у автора (архітектора або скульптора).</flowPara></flowRoot>      <path
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:-0.1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="272.66055"
+         y="976.2547"
+         id="text4137"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4171"
+           x="274.90063"
+           y="976.2547">Наразі українське законодавство </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4173"
+           x="274.90063"
+           y="997.34845">дозволяє відтворювати твори архітектури </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4175"
+           x="274.90063"
+           y="1018.4422">та мистецтва лише задля висвітлення </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4177"
+           x="274.90063"
+           y="1039.5359">поточних подій. Тобто, якщо Ви бажаєте </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4179"
+           x="274.90063"
+           y="1060.6296">сфотографувати будівлю чи пам'ятник, </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4181"
+           x="274.90063"
+           y="1081.7234">станцію метро чи меморіальну дошку, </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4183"
+           x="274.90063"
+           y="1102.8171">Вам необхідно отримати на це дозвіл </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4185"
+           x="272.61057"
+           y="1123.9109">у автора (архітектора або скульптора).</tspan></text>
+      <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="rect5094"
@@ -4072,13 +4035,6 @@
     <g
        transform="translate(328.9529,-45.06308)"
        id="g5139">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
-         id="rect5141"
-         width="333.07242"
-         height="177.92029"
-         x="108.20449"
-         y="958.32153" />
       <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5043);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5157);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
          d="m 128.57143,1139.1707 -15,0 -15.000004,0 0,-184.6657 30.000004,0"
@@ -4093,22 +4049,54 @@
          transform="matrix(-1,0,0,1,547.18558,0)"
          width="100%"
          height="100%" />
-      <flowRoot
+      <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:-0.1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5315);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot5214"
-         transform="translate(0.0203051,0.9289322)"><flowRegion
-           id="flowRegion5216"
-           style="fill:url(#linearGradient5253)"><use
-             x="0"
-             y="0"
-             xlink:href="#rect5141"
-             id="use5218"
-             width="100%"
-             height="100%"
-             style="fill:url(#linearGradient5250)" /></flowRegion><flowPara
-           id="flowPara5311"
-           style="font-size:16.875px;letter-spacing:-0.1px;word-spacing:0px;fill:url(#linearGradient8811)">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео творів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-паркового мистецтва, що знаходяться у громадських і публічно доступних місцях, без потреби отримувати дозвіл у архітектора (скульптора).</flowPara></flowRoot>    </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:-0.1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4271);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="271.43875"
+         y="975.85754"
+         id="text4187"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4225"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="975.85754">Законопроект дозволяє вільно створювати </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4227"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="996.95129">та розповсюджувати зображення чи відео </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4229"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="1018.045">творів образотворчого, ужиткового </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4231"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="1039.1388">мистецтва, архітектури, містобудування і </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4233"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="1060.2325">садово-паркового мистецтва, </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4235"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="1081.3263">що знаходяться у громадських і публічно </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4237"
+           style="fill:url(#linearGradient4271)"
+           x="273.67883"
+           y="1102.42">доступних місцях, без потреби отримувати </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4239"
+           style="fill:url(#linearGradient4271)"
+           x="271.38876"
+           y="1123.5138">дозвіл у архітектора (скульптора).</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
