@@ -117,7 +117,7 @@
     <linearGradient
        id="linearGradient5043"
        osb:paint="solid"
-       gradientTransform="matrix(0.56299624,0,0,0.56299625,-325.98182,396.87421)">
+       gradientTransform="matrix(0.56299624,0,0,0.56299625,-327.64801,396.87421)">
       <stop
          style="stop-color:#8ad447;stop-opacity:1;"
          offset="0"
@@ -1872,9 +1872,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="421.72164"
-     inkscape:cy="92.143402"
+     inkscape:zoom="0.7"
+     inkscape:cx="370.16399"
+     inkscape:cy="733.3769"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1896,6 +1896,10 @@
        position="10,235.71429"
        orientation="0,1"
        id="guide5206" />
+    <sodipodi:guide
+       position="787.85715,844.28572"
+       orientation="1,0"
+       id="guide8821" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1980,19 +1984,20 @@
          sodipodi:linespacing="125%"
          id="text3355"
          y="537.34729"
-         x="340.43613"
+         x="337.16544"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.24552536px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5043);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
-         transform="scale(0.98113803,1.0192246)"><tspan
+         transform="scale(0.98113802,1.0192246)"><tspan
            y="537.34729"
-           x="340.43613"
+           x="337.16544"
            id="tspan3357"
            sodipodi:role="line">СВОБОДА ПАНОРАМИ</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4159"
-         d="m 186.39734,559.6775 345.71428,0"
-         style="fill:url(#linearGradient5043);fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         d="m 139.37832,559.6775 394.33779,0"
+         style="fill:url(#linearGradient5043);fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.04587173px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5441);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3790,7 +3795,7 @@
        y="258.86673" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.66149683px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5276);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.66149712px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5276);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5244"
        transform="matrix(0.96798408,0,0,0.96798408,3.8963148,-302.55149)"><flowRegion
          id="flowRegion5246"
@@ -3804,7 +3809,7 @@
            style="fill:url(#linearGradient5258);fill-opacity:1"
            transform="translate(16,319.1879)" /></flowRegion><flowPara
          id="flowPara5020"
-         style="fill:url(#linearGradient5309);font-size:20.66149683px;">дозволяє вільну публікацію світлин, відео та малюнків архітектури, пам'ятників та інших об'єктів авторського права, розміщених у публічних місцях.</flowPara></flowRoot>    <rect
+         style="font-size:20.66149712px;fill:url(#linearGradient5309)">дозволяє вільну публікацію світлин, відео та малюнків архітектури, пам'ятників та інших об'єктів авторськогo права, розміщених у публічних місцях.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5395);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
@@ -3831,7 +3836,7 @@
          id="flowPara5305"
          style="font-size:22.5px;line-height:139.99999762%;fill:url(#linearGradient8819)">Свобода панорами існує у <flowSpan
    style="font-size:22.5px;line-height:139.99999762%;fill:url(#linearGradient5224)"
-   id="flowSpan5307">83 країнах світу</flowSpan> — зокрема в більшості країн ЄС, у США, Японії і навіть Росії.</flowPara></flowRoot>    <g
+   id="flowSpan5307">83 країнах світу</flowSpan> — зокрема в більшості країн ЄС, у США, Японії і навіть Росії.</flowPara></flowRoot>    <g
        id="g5502"
        transform="matrix(0.33865118,0,0,0.33865118,250.00299,644.30409)">
       <g
