@@ -28,7 +28,7 @@
     <linearGradient
        id="linearGradient5441"
        osb:paint="solid"
-       gradientTransform="matrix(0.80256551,0,0,0.80256551,0.2763379,103.50329)">
+       gradientTransform="matrix(0.80256551,0,0,0.80256551,-7.7461321,105.10778)">
       <stop
          style="stop-color:#945089;stop-opacity:1;"
          offset="0"
@@ -117,7 +117,7 @@
     <linearGradient
        id="linearGradient5043"
        osb:paint="solid"
-       gradientTransform="matrix(0.57381959,0,0,0.57381959,-337.16887,404.50394)">
+       gradientTransform="matrix(0.56299624,0,0,0.56299625,-325.98182,396.87421)">
       <stop
          style="stop-color:#8ad447;stop-opacity:1;"
          offset="0"
@@ -2327,16 +2327,6 @@
        gradientTransform="translate(169.70563,409.4484)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5252"
-       id="linearGradient5246"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(553.56359,6.0609152)"
-       x1="337.46484"
-       y1="657.50061"
-       x2="792.85742"
-       y2="657.50061" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5157"
        id="linearGradient5250"
        gradientUnits="userSpaceOnUse"
@@ -2445,7 +2435,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5157"
-       id="linearGradient5313"
+       id="linearGradient5315"
        gradientUnits="userSpaceOnUse"
        x1="114.38516"
        y1="1025.1487"
@@ -2454,12 +2444,22 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5157"
-       id="linearGradient5315"
+       id="linearGradient8811"
        gradientUnits="userSpaceOnUse"
        x1="114.38516"
        y1="1025.1487"
        x2="415.90546"
        y2="1025.1487" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5252"
+       id="linearGradient8819"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(553.56359,6.0609152)"
+       x1="337.46484"
+       y1="657.50061"
+       x2="792.85742"
+       y2="657.50061" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2468,15 +2468,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="496.61887"
-     inkscape:cy="145.9998"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="486.3587"
+     inkscape:cy="19.372829"
      inkscape:document-units="px"
-     inkscape:current-layer="g5139"
+     inkscape:current-layer="g4743"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
-     inkscape:window-height="575"
+     inkscape:window-height="576"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -2484,18 +2484,6 @@
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
      inkscape:snap-bbox="false">
-    <sodipodi:guide
-       position="544.28571,315.71429"
-       orientation="1,0"
-       id="guide6313" />
-    <sodipodi:guide
-       position="216.42857,329.28571"
-       orientation="1,0"
-       id="guide6315" />
-    <sodipodi:guide
-       position="434.3656,226.27417"
-       orientation="1,0"
-       id="guide5256" />
     <sodipodi:guide
        position="485.71429,43.571429"
        orientation="0,1"
@@ -2600,12 +2588,13 @@
       <text
          sodipodi:linespacing="125%"
          id="text3355"
-         y="547.67749"
-         x="342.06067"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5043);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="547.67749"
-           x="342.06067"
+         y="537.34729"
+         x="340.43613"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.24552536px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5043);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.98113803,1.0192246)"><tspan
+           y="537.34729"
+           x="340.43613"
            id="tspan3357"
            sodipodi:role="line">СВОБОДА ПАНОРАМИ</tspan></text>
       <path
@@ -2615,21 +2604,21 @@
          style="fill:url(#linearGradient5043);fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.04587173px;line-height:100%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5441);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-64.354271"
-         y="534.69537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.04587173px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5441);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-72.376732"
+         y="536.29987"
          id="text5435"
          sodipodi:linespacing="100%"><tspan
            sodipodi:role="line"
            id="tspan5437"
-           x="-64.354271"
-           y="534.69537"
+           x="-72.376732"
+           y="536.29987"
            style="fill:url(#linearGradient5441);fill-opacity:1">#<tspan
    style="fill:url(#linearGradient5441)"
    id="tspan5449">freepanorama</tspan></tspan><tspan
            sodipodi:role="line"
-           x="-64.354271"
-           y="548.36078"
+           x="-72.376732"
+           y="549.95795"
            id="tspan5439"
            style="font-size:10.85103512px;fill:url(#linearGradient5441);fill-opacity:1">.org.ua</tspan></text>
     </g>
@@ -2947,7 +2936,7 @@
          id="text5997"
          y="660.00397"
          x="-589.4455"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.960886px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.960886px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="660.00397"
            x="-589.4455"
@@ -2955,7 +2944,7 @@
            sodipodi:role="line">АРХІТЕКТУРА</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.960886px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.960886px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-599.80261"
          y="840.36115"
          id="text6001"
@@ -4336,7 +4325,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot5284"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,-74)"><flowRegion
          id="flowRegion5286"><rect
            id="rect5288"
@@ -4344,11 +4333,11 @@
            height="190.64101"
            x="434.3656"
            y="125.71429"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed'" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'" /></flowRegion><flowPara
          id="flowPara5290" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5292"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0,-74)"><flowRegion
          id="flowRegion5294"><rect
            id="rect5296"
@@ -4356,7 +4345,7 @@
            height="189.92673"
            x="434.3656"
            y="126.42857"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed'" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'" /></flowRegion><flowPara
          id="flowPara5298" /></flowRoot>    <g
        id="g4748"
        transform="translate(850.60155,9.238618)">
@@ -4390,7 +4379,7 @@
            y="880.79639" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="207.62798"
            y="898.40857"
            id="text4976"
@@ -4411,7 +4400,7 @@
            id="text5004"
            y="898.40857"
            x="312.2854"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"><tspan
              y="898.40857"
              x="312.2854"
@@ -4420,11 +4409,11 @@
       </g>
       <flowRoot
          transform="translate(-279.45542,832.67678)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot5304"
          xml:space="preserve"><flowRegion
            id="flowRegion5306"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed'"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.5px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'"
              y="125.71429"
              x="434.3656"
              height="195.69174"
@@ -4433,7 +4422,7 @@
            id="flowPara5310">відтворення тільки у новинах </flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot5312"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          transform="translate(-172.0167,778.9625)"><flowRegion
            id="flowRegion5314"><rect
              id="rect5316"
@@ -4441,11 +4430,11 @@
              height="216.19069"
              x="435"
              y="132.14285"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed'" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans'" /></flowRegion><flowPara
            id="flowPara5318">вільна публікація в Інтернеті, у фільмах, у книжках, журналах, довідниках тощо. </flowPara></flowRoot>    </g>
     <g
        id="g5277"
-       transform="matrix(0.88456238,0,0,0.88456238,189.95715,301.41281)">
+       transform="matrix(0.88456238,0,0,0.88456238,187.95715,301.41281)">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient5304);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 228.29361,513.74407 3.60352,35.61719 -12.69372,0 0,64.52929 12.69372,0 -3.60352,35.61719 67.88281,-67.88086 z"
@@ -5285,7 +5274,7 @@
          id="text5004-2"
          y="680.53082"
          x="154.98837"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="680.53082"
            x="154.98837"
@@ -5293,7 +5282,7 @@
            sodipodi:role="line">З нею:</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.97656441px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-472.15448"
          y="680.53082"
          id="text5124"
@@ -5318,24 +5307,26 @@
          id="flowPara5170" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5172"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25px;line-height:114.99999762%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient5193);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient5193);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(50.579416,160.99943)"><flowRegion
          id="flowRegion5174"
          style="fill:url(#linearGradient5183);fill-opacity:1"><rect
            id="rect5176"
-           width="302.99493"
-           height="186.24438"
-           x="443.45697"
-           y="369.68521"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:25px;line-height:114.99999762%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow Condensed';text-align:start;text-anchor:start;fill:url(#linearGradient5181);fill-opacity:1" /></flowRegion><flowPara
-         style="font-size:25px;fill:url(#linearGradient5391);fill-opacity:1"
+           width="308.04568"
+           height="184.22404"
+           x="438.40622"
+           y="371.70551"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:start;text-anchor:start;fill:url(#linearGradient5181);fill-opacity:1" /></flowRegion><flowPara
+         style="font-size:20px;fill:url(#linearGradient5391);fill-opacity:1"
          id="flowPara5200"> - в Інтернеті</flowPara><flowPara
          id="flowPara5199"
-         style="font-size:25px;fill:url(#linearGradient5187);fill-opacity:1"> - на телебаченні</flowPara><flowPara
+         style="font-size:20px;fill:url(#linearGradient5187);fill-opacity:1"> - на телебаченні</flowPara><flowPara
          id="flowPara5173"
-         style="font-size:25px;fill:url(#linearGradient5189);fill-opacity:1"> - у друкованих виданнях:</flowPara><flowPara
+         style="font-size:20px;fill:url(#linearGradient5189);fill-opacity:1"> - у друкованих виданнях:</flowPara><flowPara
          id="flowPara5177"
-         style="font-size:25px;fill:url(#linearGradient5191);fill-opacity:1">   туристичних, навчальних, тощо.</flowPara></flowRoot>    <rect
+         style="font-size:20px;fill:url(#linearGradient5191);fill-opacity:1">   туристичних, навчальних,</flowPara><flowPara
+         style="font-size:20px;fill:url(#linearGradient5191);fill-opacity:1"
+         id="flowPara8785">   тощо.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;fill-opacity:0.928;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5242"
        width="529.52728"
@@ -5344,7 +5335,7 @@
        y="258.86673" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:114.99999762%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5276);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.66149683px;line-height:114.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:url(#linearGradient5276);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot5244"
        transform="matrix(0.96798408,0,0,0.96798408,3.8963148,-302.55149)"><flowRegion
          id="flowRegion5246"
@@ -5358,7 +5349,7 @@
            style="fill:url(#linearGradient5258);fill-opacity:1"
            transform="translate(16,319.1879)" /></flowRegion><flowPara
          id="flowPara5020"
-         style="fill:url(#linearGradient5309)">дозволяє вільну публікацію світлин, відео та малюнків архітектури, пам'ятників та інших об'єктів авторського права, розміщених у публічних місцях.</flowPara></flowRoot>    <rect
+         style="fill:url(#linearGradient5309);font-size:20.66149683px;">дозволяє вільну публікацію світлин, відео та малюнків архітектури, пам'ятників та інших об'єктів авторського права, розміщених у публічних місцях.</flowPara></flowRoot>    <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5395);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 8;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect5297"
        width="329.30969"
@@ -5369,9 +5360,9 @@
        ry="47.460304" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5792);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:139.99999762%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5792);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5299"
-       transform="translate(0,-21.130683)"><flowRegion
+       transform="translate(0,-17.130683)"><flowRegion
          id="flowRegion5301"
          style="fill:url(#linearGradient5788)"><use
            x="0"
@@ -5383,8 +5374,8 @@
            style="fill:url(#linearGradient5786)"
            transform="translate(0,21.130683)" /></flowRegion><flowPara
          id="flowPara5305"
-         style="fill:url(#linearGradient5246)">Свобода панорами існує у <flowSpan
-   style="fill:url(#linearGradient5224)"
+         style="font-size:22.5px;line-height:139.99999762%;fill:url(#linearGradient8819)">Свобода панорами існує у <flowSpan
+   style="font-size:22.5px;line-height:139.99999762%;fill:url(#linearGradient5224)"
    id="flowSpan5307">83 країнах світу</flowSpan> — зокрема в більшості країн ЄС, у США, Японії і навіть Росії.</flowPara></flowRoot>    <g
        id="g5502"
        transform="matrix(0.33865118,0,0,0.33865118,250.00299,644.30409)">
@@ -5529,7 +5520,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient5445);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:100%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient5445);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="604.35547"
        y="789.36993"
        id="text5528"
@@ -5594,7 +5585,7 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.73600003;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
       <flowRoot
          id="flowRoot5082"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:-0.1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><flowRegion
            id="flowRegion5084"><use
              id="use5086"
@@ -5644,9 +5635,9 @@
          height="100%" />
       <flowRoot
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:20px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5315);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:-0.1px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5315);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot5214"
-         transform="translate(0,2)"><flowRegion
+         transform="translate(0.0203051,0.9289322)"><flowRegion
            id="flowRegion5216"
            style="fill:url(#linearGradient5253)"><use
              x="0"
@@ -5657,7 +5648,7 @@
              height="100%"
              style="fill:url(#linearGradient5250)" /></flowRegion><flowPara
            id="flowPara5311"
-           style="fill:url(#linearGradient5313)">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео творів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-парко- вого мистецтва, що знаходяться у громадських і публічно доступних місцях, без потреби отримувати дозвіл у архітектора (скульптора).</flowPara></flowRoot>    </g>
+           style="font-size:16.875px;letter-spacing:-0.1px;word-spacing:0px;fill:url(#linearGradient8811)">Законопроект дозволяє вільно створювати та розповсюджувати зображення чи відео творів образотворчого, ужиткового мистецтва, архітектури, містобудування і садово-паркового мистецтва, що знаходяться у громадських і публічно доступних місцях, без потреби отримувати дозвіл у архітектора (скульптора).</flowPara></flowRoot>    </g>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5252);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        d="m 232.85715,1205.9335 339.99999,0 18.57143,47.1429 -377.14285,0 z"
@@ -5801,7 +5792,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.5px;line-height:125%;font-family:'PT Sans Narrow';-inkscape-font-specification:'PT Sans Narrow, Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="687.89355"
        y="1126.22"
        id="text4440"
