@@ -1706,12 +1706,6 @@
        y2="1025.1487" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5103"
-       id="linearGradient4227"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(169.70563,409.4484)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5252"
        id="linearGradient4051"
        gradientUnits="userSpaceOnUse"
@@ -1738,8 +1732,14 @@
        y2="657.50061" />
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient5103"
+       id="linearGradient4036"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.70563,409.4484)" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient5157"
-       id="linearGradient5002"
+       id="linearGradient4038"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(164.59173,0.9289322)"
        x1="114.38516"
@@ -1754,11 +1754,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="822.28489"
-     inkscape:cy="514.08434"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="510.13447"
+     inkscape:cy="73.293273"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1024"
@@ -1791,7 +1791,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1800,7 +1800,8 @@
      id="layer4"
      inkscape:label="bg-1"
      transform="translate(0,80)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
        id="rect7789"
@@ -1854,8 +1855,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-172.3621)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        ry="47.460304"
        rx="35.683258"
@@ -2297,16 +2297,16 @@
       </g>
       <polygon
          id="polygon250"
-         points="517.076,351.23 516.576,355.23 525.076,354.23 " />
+         points="525.076,354.23 517.076,351.23 516.576,355.23 " />
       <polygon
          id="polygon252"
-         points="522.831,374.073 520.824,377.571 529.054,379.929 " />
+         points="529.054,379.929 522.831,374.073 520.824,377.571 " />
       <polygon
          id="polygon254"
-         points="520.534,330.594 521.419,334.527 529.078,330.704 " />
+         points="529.078,330.704 520.534,330.594 521.419,334.527 " />
       <polygon
          id="polygon256"
-         points="518.604,307.099 520.963,310.368 526.5,303.841 " />
+         points="526.5,303.841 518.604,307.099 520.963,310.368 " />
       <g
          id="g6069">
         <path
@@ -3948,7 +3948,7 @@
     </g>
     <g
        id="g5101"
-       transform="translate(-51.047104,-45.06308)">
+       transform="translate(-51.047104,-51.06308)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5103);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3993,7 +3993,7 @@
          inkscape:connector-curvature="0"
          id="rect5094"
          d="m 130.59174,1138.7523 -15,0 -15.00001,0 -2.020304,-183.53302 30.000004,0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient4227);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5929);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient4036);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate" />
       <use
          height="100%"
          width="100%"
@@ -4004,7 +4004,7 @@
          x="0" />
     </g>
     <g
-       transform="translate(328.9529,-45.06308)"
+       transform="translate(328.9529,-51.06308)"
        id="g5139">
       <path
          style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5043);fill-opacity:0;fill-rule:nonzero;stroke:url(#linearGradient5157);stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:0.94196424;marker:none;enable-background:accumulate"
@@ -4022,49 +4022,49 @@
          height="100%" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient5002);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.875px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient4038);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="273.43875"
          y="975.85754"
          id="text4187"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan4225"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="975.85754">Законопроект дозволяє вільно створювати </tspan><tspan
            sodipodi:role="line"
            id="tspan4227"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="996.95129">та розповсюджувати зображення чи відео </tspan><tspan
            sodipodi:role="line"
            id="tspan4229"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="1018.045">творів образотворчого, ужиткового </tspan><tspan
            sodipodi:role="line"
            id="tspan4231"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="1039.1388">мистецтва, архітектури, містобудування і </tspan><tspan
            sodipodi:role="line"
            id="tspan4233"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="1060.2325">садово-паркового мистецтва, </tspan><tspan
            sodipodi:role="line"
            id="tspan4235"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="1081.3263">що знаходяться у громадських і публічно </tspan><tspan
            sodipodi:role="line"
            id="tspan4237"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="275.77884"
            y="1102.42">доступних місцях, без потреби отримувати </tspan><tspan
            sodipodi:role="line"
            id="tspan4239"
-           style="letter-spacing:0px;fill:url(#linearGradient5002)"
+           style="letter-spacing:0px;fill:url(#linearGradient4038)"
            x="273.43875"
            y="1123.5138">дозвіл у архітектора (скульптора).</tspan></text>
     </g>
@@ -4082,7 +4082,7 @@
     <g
        id="layer1-14"
        inkscape:label="Layer 1"
-       transform="matrix(0.68733374,0,0,0.68733374,697.61441,1115.1996)">
+       transform="matrix(0.68733374,0,0,0.68733374,697.61441,1117.1996)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -4207,20 +4207,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#797979;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="687.89355"
-       y="1126.22"
+       y="1112.22"
        id="text4440"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4442"
          x="687.89355"
-         y="1126.22">Цей файл є вільним до поширення і використання на умовах ліцензії: https://creativecommоns.org/licenses/by-sa/4.0</tspan><tspan
+         y="1112.22"
+         id="tspan4014">Цей файл є вільним до поширення і використання на умовах ліцензії:</tspan><tspan
          sodipodi:role="line"
          x="687.89355"
-         y="1141.845"
-         id="tspan4448">Оригінал i список використаних матеріалів: https://commons.wikimedia.org/wiki/File:FOP-UA.svg</tspan><tspan
+         y="1127.845"
+         id="tspan4018">Creative Commons Attribution-ShareAlike 4.0 International | https://creativecommоns.org/licenses/by-sa/4.0</tspan><tspan
          sodipodi:role="line"
+         id="tspan4010"
          x="687.89355"
-         y="1157.47"
-         id="tspan4444" /></text>
+         y="1143.47">Оригінал i список використаних матеріалів: https://commons.wikimedia.org/wiki/File:FOP-UA.png</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4012"
+         x="687.89355"
+         y="1159.095" /></text>
   </g>
 </svg>
